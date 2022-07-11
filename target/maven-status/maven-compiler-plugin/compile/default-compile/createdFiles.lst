@@ -1,0 +1,5 @@
+com\shopkeeper\boot\ShopKeeperDSInitializer.class
+com\shopkeeper\config\ShopKeeperWebConfig.class
+com\shopkeeper\dto\StoreDto.class
+com\shopkeeper\config\ShopKeeperRootConfig.class
+com\shopkeeper\controller\GetProductStoresController.class
